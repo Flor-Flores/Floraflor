@@ -1,4 +1,4 @@
-- 👋 Hi, Flor
+- 👋 Hi, Flor.
 - 👀 I’m interested in Languages ( visual, spoken, writen )
 - 🌱 I’m currently learning Shopify Develoment (e-commerce) & React Js (Software Development with a focus on JavaScript)
 - 💞️ I’m looking to collaborate on projects that deal with language & accesiblility 

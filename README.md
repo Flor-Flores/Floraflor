@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alejandro Jiménez @alejflores
+- 👋 Hi, Flor
 - 👀 I’m interested in Languages ( visual, spoken, writen )
-- 🌱 I’m currently learning React Js (Software Development with a focus on JavaScript)
+- 🌱 I’m currently learning Shopify Develoment (e-commerce) & React Js (Software Development with a focus on JavaScript)
 - 💞️ I’m looking to collaborate on projects that deal with language & accesiblility 
 - 📫 How to reach me 2alejflores2@gmail.com 
 - 
